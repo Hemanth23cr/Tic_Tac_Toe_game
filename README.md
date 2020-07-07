@@ -10,3 +10,7 @@ This is a simple one-player game of Tic-Tac-Toe that I made in Python. It is one
 ## Dependencies
 
      pip install easyAI
+     
+Follow Me On Instagram at <a href = "https://www.instagram.com/_hemanth_shetty__/">@_hemanth_shetty__</a>
+
+#### ThankYou!
